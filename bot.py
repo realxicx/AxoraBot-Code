@@ -107,7 +107,7 @@ async def help(ctx):
 
 # Final check to make sure TOKEN exists
 if TOKEN:
-    bot.run(TOKEN)
+    bot.run(MTQ5NDU1MzU3NTU0Mjc1NTQ1OQ.GOlKLL._a5mk7Q9ElPdF7S1HC_mcw3SpmPOkE2RLTrSaA)
 else:
     print("❌ ERROR: DISCORD_TOKEN not found in Settings Variables!")
               
